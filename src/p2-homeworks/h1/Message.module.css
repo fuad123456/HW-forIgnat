@@ -1,0 +1,19 @@
+.message {
+
+}
+.container{
+    display: flex;
+    width: 500px;
+}
+.avatar{
+    max-width: 100px;
+}
+.desc{
+    width: 200px;
+    padding: 10px;
+    background-color: aquamarine;
+
+}
+.time{
+    text-align: right;
+}
